@@ -9,7 +9,7 @@ current_age = current_year - birthday
     if age == current_age / 2
       puts "Il y a #{years_ago} ans, tu avais la moitié de l'âge que tu as aujourd'hui."
     else
-      puts "Lors de l'année #{years_ago}, tu avais #{age} ans."
+      puts "Lors de l'année #{year}, tu avais #{age} ans."
     end
   end
   
